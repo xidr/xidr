@@ -1,4 +1,16 @@
-## Hi there 👋
+A Unity developer with some understanding of graphics programming
+
+Check out my site for more info: https://xidriel.me/
+
+---
+
+Here is a github organization where I put game jam projects: https://github.com/orgs/Jamming-Team/repositories
+
+You can play those on my itch.io page: https://xidriel.itch.io/
+
+---
+
+Also, I have an old github account with more projects: https://github.com/PrazaVasNeema
 
 <!--
 **xidr/xidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
