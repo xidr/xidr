@@ -1,4 +1,4 @@
-I am a Unity developer with some understanding of graphics programming
+I am a Unity developer
 
 Check out my site for more info: https://xidriel.me/
 
