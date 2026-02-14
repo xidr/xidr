@@ -14,10 +14,6 @@ I have a template project I use as a base for my project: https://github.com/xid
 
 Also, it includes XTools - my custom set of tools I'm constantly working on: https://github.com/xidr/XCharge?path=/Assets/XTools
 
----
-
-Also, I have an old github account with more projects: https://github.com/PrazaVasNeema
-
 <!--
 **xidr/xidr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
